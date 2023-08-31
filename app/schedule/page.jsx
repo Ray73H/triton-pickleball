@@ -3,21 +3,19 @@ import React from "react";
 const Schedule = () => {
   return (
     <div className="flex flex-col items-center justify-center p-6 mt-16 space-y-12">
-      <div className="border rounded-lg p-6 shadow-md">
+      <div className="border rounded-lg p-6 shadow-md max-w-full">
         <h1 className="text-3xl font-bold text-center mb-6">
           Schedule & Events
         </h1>
         <iframe
           src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTabs=1&showTz=0&showCalendars=0&showPrint=0&showDate=1&showNav=1&showTitle=0&src=MmUyY2I1MmZiNmIwZmY1ZmRiY2M2MWUyNjg0NTc1ZjJkNjEwYmZhOGZlODM4NmUyMzc1OWE0NmMzZTQxMTE2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA"
-          className="border border-gray-300 rounded"
-          width="1000"
-          height="600"
+          className="border border-gray-300 rounded w-full cal"
           frameBorder="0"
           scrolling="no"
         ></iframe>
       </div>
 
-      <div className="border rounded-lg p-6 shadow-md">
+      <div className="border rounded-lg p-6 shadow-md max-w-full">
         <h1 className="text-3xl font-bold text-center mb-6">
           Pickleball Court Location
         </h1>
@@ -32,7 +30,7 @@ const Schedule = () => {
         ></iframe>
       </div>
 
-      <div className="border rounded-lg p-6 shadow-md">
+      <div className="border rounded-lg p-6 shadow-md max-w-full">
         <h1 className="text-3xl font-bold text-center mb-6">
           Possible Parking Location
         </h1>

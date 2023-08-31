@@ -4,8 +4,10 @@ const Home = () => {
   return (
     <div>
       <div
-        className="bg-cover bg-center bg-no-repeat h-screen"
-        style={{ backgroundImage: `url('/assets/images/background.webp')` }}
+        className="bg-cover bg-center bg-no-repeat"
+        style={{
+          backgroundImage: `url('/assets/images/background.webp')`,
+        }}
       >
         <div className="flex flex-col justify-center items-center h-full text-white px-4 sm:px-8">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-4 text-shadow text-center">

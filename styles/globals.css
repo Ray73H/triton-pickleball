@@ -5,3 +5,27 @@
 .text-shadow {
   text-shadow: 8px 8px 6px rgba(0, 0, 0, 0.8);
 }
+
+.bg-cover {
+  background-size: cover;
+  height: 100vh; /* Make sure it takes up full viewport height */
+}
+iframe {
+  max-width: 100%; /* Set iframe's maximum width to the container's width */
+}
+.cal {
+  width: 1000px;
+  height: 600px;
+}
+
+@media (max-width: 768px) {
+  .bg-cover {
+    height: 70vh;
+  }
+  iframe {
+    height: 400px;
+  }
+  .cal {
+    height: 400px;
+  }
+}
