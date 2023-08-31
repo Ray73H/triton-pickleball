@@ -8,7 +8,7 @@ const Schedule = () => {
           Schedule & Events
         </h1>
         <iframe
-          src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=MONTH&showCalendars=0&showTabs=0&showPrint=0&showTz=0&showTitle=0&src=MmUyY2I1MmZiNmIwZmY1ZmRiY2M2MWUyNjg0NTc1ZjJkNjEwYmZhOGZlODM4NmUyMzc1OWE0NmMzZTQxMTE2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA"
+          src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTabs=1&showTz=0&showCalendars=0&showPrint=0&showDate=1&showNav=1&showTitle=0&src=MmUyY2I1MmZiNmIwZmY1ZmRiY2M2MWUyNjg0NTc1ZjJkNjEwYmZhOGZlODM4NmUyMzc1OWE0NmMzZTQxMTE2NEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA"
           className="border border-gray-300 rounded"
           width="1000"
           height="600"
