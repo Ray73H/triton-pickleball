@@ -38,8 +38,8 @@ const Home = () => {
             Join The Club
           </h3>
           <p className="text-sm md:text-lg lg:text-xl text-gray-600 mb-6 text-center">
-            Triton Pickleball is a club where all skill levels and sports
-            backgrounds come together for fun and inclusive games.
+            Triton Pickleball is a UCSD club where people of all skill levels
+            and sports backgrounds come together for fun and inclusive games.
           </p>
           <p className="text-sm md:text-lg lg:text-xl text-gray-900 font-semibold text-center">
             UCSD members: Pending for Fall Quarter
