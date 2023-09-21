@@ -15,6 +15,7 @@ const RootLayout = ({ children }) => {
           href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap"
           rel="stylesheet"
         />
+        <link rel="icon" href="/assets/images/logo2.webp" />
       </head>
       <body>
         <main className="">

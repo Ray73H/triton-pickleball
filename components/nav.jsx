@@ -23,7 +23,7 @@ const Nav = () => {
     <nav className="fixed w-full top-0 h-16 bg-black transition flex justify-between items-center py-2 px-6">
       <Link href="/" className="flex items-center gap-2">
         <Image
-          src="/assets/images/logo.webp"
+          src="/assets/images/logo2.webp"
           alt="Weather Logo"
           width={45}
           height={50}

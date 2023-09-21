@@ -31,22 +31,18 @@ const About = () => {
           <div className="bg-white p-6 shadow rounded">
             <h2 className="text-xl font-semibold mb-2">Ray Heinonen</h2>
             <p className="text-gray-700">DUPR rating: 5.08</p>
-            <p className="text-gray-700">Experience playing: 1 year</p>
           </div>
           <div className="bg-white p-6 shadow rounded">
             <h2 className="text-xl font-semibold mb-2">Gabriel Dyer</h2>
             <p className="text-gray-700">DUPR rating: 4.69</p>
-            <p className="text-gray-700">Experience playing:</p>
           </div>
           <div className="bg-white p-6 shadow rounded">
             <h2 className="text-xl font-semibold mb-2">Kylun Freeman</h2>
             <p className="text-gray-700">DUPR rating: 4.44</p>
-            <p className="text-gray-700">Experience playing:</p>
           </div>
           <div className="bg-white p-6 shadow rounded">
             <h2 className="text-xl font-semibold mb-2">Matthew Powley</h2>
             <p className="text-gray-700">DUPR rating: 4.08</p>
-            <p className="text-gray-700">Experience playing:</p>
           </div>
         </div>
       </div>
